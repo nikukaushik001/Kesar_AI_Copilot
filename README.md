@@ -28,6 +28,9 @@
 
 ## 2. Architecture & Workflow Design
 
+### Workflow Execution Canvas
+![n8n Workflow Execution](screenshots/workflow_execution.png)
+
 ```
    Incoming Webhook POST (Email Payload)
                  │
