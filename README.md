@@ -3,6 +3,11 @@
 [![n8n](https://img.shields.io/badge/Platform-n8n_Cloud-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Model](https://img.shields.io/badge/LLM-Groq_%2F_Gemini_1.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://console.groq.com)
 [![Status](https://img.shields.io/badge/Status-Complete_%26_Evaluated-2ea44f?style=for-the-badge)](TEST_REPORT.md)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-Audit_Log_%26_Tickets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1myzwSxH0Liini5VW8k1i1emW3pcaIcg13gcUthnEU_A/edit?gid=1863519059#gid=1863519059)
+
+> **📊 Live Google Sheets Links:**
+> - [Audit Log Spreadsheet](https://docs.google.com/spreadsheets/d/1myzwSxH0Liini5VW8k1i1emW3pcaIcg13gcUthnEU_A/edit?gid=1863519059#gid=1863519059)
+> - [Tickets Spreadsheet](https://docs.google.com/spreadsheets/d/16fbF3PofXS6jA_SnzoerEevWgV_IUGFW3h1TRO7nZ1Y/edit?gid=507124389#gid=507124389)
 
 ---
 
